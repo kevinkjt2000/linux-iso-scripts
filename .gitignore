@@ -1,0 +1,5 @@
+# Large iso files
+*.iso
+
+# Signatures
+*.sig
